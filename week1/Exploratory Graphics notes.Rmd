@@ -3,6 +3,7 @@ title: "Week 1 Notes Lesson 2 -Exploratory Graphs"
 author: "Lynnsha Jing Huang"
 date: "Tuesday, October 06, 2015"
 output: html_document
+runtime: shiny
 ---
 
 ### Exploratory Graphs
