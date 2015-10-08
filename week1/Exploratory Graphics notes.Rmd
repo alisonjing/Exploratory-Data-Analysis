@@ -31,7 +31,6 @@ head(pollution)
 ```
 
 Do any counties exceed the standard of $12\mu g/m^3$?
-
 ![data1](https://cloud.githubusercontent.com/assets/10354653/10329034/43c84e5a-6c70-11e5-9926-eebedc6fb8c4.GIF)
 
 
