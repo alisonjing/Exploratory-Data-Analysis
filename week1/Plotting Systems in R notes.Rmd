@@ -9,7 +9,7 @@ runtime: shiny
 ### plotting Systems in R
 #### The Base Plotting System
 - "Artist's palette" model
-- Statrt with blank canvas and build up from there
+- Start with blank canvas and build up from there
 - Start with plot function( or similar)
 - Use annotation functions to add/modify(text, lines, points, axis)
 
