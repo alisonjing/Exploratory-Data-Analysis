@@ -10,7 +10,7 @@ output: html_document
 The core plotting and graphics engine in R is encapsulated in the following packages:
 
 - *graphics*: contains plotting functions for the "base" graphing systems, including **plot**, **hist**, **boxplot** and many others.
-- *grDevices*: contains all the code implementing the various graphics devices, inclduing x11, PDF, PostScript, PNG, etc
+- *grDevices*: contains all the code implementing the various graphics devices, including x11, PDF, PostScript, PNG, etc
 
 The lattice plotting system is implemented using the following packages:
 
